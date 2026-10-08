@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://silver-pines.xyz/sitemap.xml
